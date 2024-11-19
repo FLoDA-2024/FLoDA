@@ -1,4 +1,4 @@
-# FLoDA
+# FLoDA - Flood Discourse: Analysis of language and themes in media coverage about floods in Lower Austria
 Floods are omnipresent – within Austria, Lower Austria is particularly badly affected. 
 With climate change intensifying extreme weather events, the relevance of understanding flood risks and their portrayal in the media has never been more urgent. 
 The aim of the project Flood Discourse: Analysis of language and themes in media coverage about floods in Lower Austria (FLoDA) is to analyze the media framing of flood risks and flood events in Lower Austria from 2000 to 2024. 
